@@ -135,3 +135,7 @@ If you prefer to write the endpoint yourself, see the full guide:
 
 - [Claude Code](https://claude.ai/code) desktop app or CLI
 - A Talki account — [talki.tech](https://talki.tech)
+
+
+## Help 
+If you have any questions, please contact us at hello@talki.tech or use the chat widget on the [talki.tech](https://talki.tech) website.
